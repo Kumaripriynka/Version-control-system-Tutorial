@@ -1,7 +1,6 @@
 <h2># Version-control-system-Tutorial</h2>
 <h3>This repo has the informatins about the basic commands of how to use version control system git and github.</h3>
-<br>
-<b><u>Git</u></b>
+<u>Git</u>
 <br>
 version control system is a tools that helps to track changes in code .
 <br>
