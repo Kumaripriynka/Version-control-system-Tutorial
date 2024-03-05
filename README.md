@@ -1,6 +1,6 @@
 <h2># Version-control-system-Tutorial</h2>
 <h3>This repo has the informatins about the basic commands of how to use version control system git and github.</h3>
-<u>Git</u>
+<b><u>Git</u></b>
 <br>
 version control system is a tools that helps to track changes in code .
 <br>
@@ -12,6 +12,9 @@ Free and Open Source
 <br>
 Fast & scalable
 <br>
+
+&nbsp;
+&nbsp;
 <b><u>Setting up Git</u></b>
 <br>
 i) first of all we need to download a code editor in our system for ex: Visual Studio Code.
