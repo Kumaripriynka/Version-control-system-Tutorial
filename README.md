@@ -41,6 +41,16 @@ Websites that allows developers to store and manage their code using Git.
 <b>clear:</b> &nbsp;   this command will clear the terminal
 <br>
 <b>pwd:</b> &nbsp;  this command will help to get working directory.
+<br>
+<br>
+<h3>Configuring Git:</h3>
+<br>
+<b>git config --global user.name "User Name"</b> &nbsp; configure the user name on the global level.
+<br>
+<b>git config --global user.email "user_email(someone@gmail.com)"</b>  &nbsp; configure the user email globally.
+<br>
+<b>git config --list</b> &nbsp; list all the configuration that we have done with.
+
 
 
 
