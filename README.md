@@ -42,6 +42,16 @@ Websites that allows developers to store and manage their code using Git.
 <br>
 <b>pwd:</b> &nbsp;  this command will help to get working directory.
 <br>
+<b style="color:yellow">Clone & Status</b> 
+<br>
+<b>Clone</b>-Cloning a repository on our local machine
+<br>
+<b>git clone <--some link--></b>
+<br>
+<b>Status-</b>displays the state of the clone
+<b>git status</b>
+
+
 <br>
 <h3>Configuring Git:</h3>
 <br>
