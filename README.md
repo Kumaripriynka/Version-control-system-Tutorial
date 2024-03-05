@@ -12,9 +12,8 @@ Free and Open Source
 <br>
 Fast & scalable
 <br>
-
-&nbsp;
-&nbsp;
+<br>
+<br>
 <b><u>Setting up Git</u></b>
 <br>
 i) first of all we need to download a code editor in our system for ex: Visual Studio Code.
