@@ -23,19 +23,20 @@ ii) And the second step will be if we have a window in our system we have to dow
 iii) if we are a mac user then we have to download Terminal in our system which is already downloded generally .
 <br>
 After setting the git for verification we have to write a simple command which is <b>git --version</b>
+<br>
 <b><u>Github</u></b>
 Websites that allows developers to store and manage their code using Git.
 <br>
 
 <h3>Some basic Commands of git</h3>
 <br>
-<b>git --version</b> &nbsp;&nbsp; this will show the version of intalled git in the system.
+<b>git --version:</b> &nbsp;   this will show the version of intalled git in the system.
 <br>
-<b>ls</b> &nbsp; this command will list all the files and folders present in that directory.
+<b>ls:</b> &nbsp;   this command will list all the files and folders present in that directory.
 <br>
-<b>clear</b> &nbsp; this command will clear the terminal
+<b>clear:</b> &nbsp;   this command will clear the terminal
 <br>
-<b>pwd</b> &nbsp;  this command will help to get working directory.
+<b>pwd:</b> &nbsp;  this command will help to get working directory.
 
 
 
