@@ -49,6 +49,7 @@ Websites that allows developers to store and manage their code using Git.
 <b>git clone <--some link--></b>
 <br>
 <b>Status-</b>displays the state of the clone
+  <br>
 <b>git status</b>
 
 
