@@ -25,7 +25,10 @@ iii) if we are a mac user then we have to download Terminal in our system which 
 <br>
 After setting the git for verification we have to write a simple command which is <b>git --version</b>
 <br>
-<b><u>Github</u></b>
+<br>
+<br>
+<b><u>Github:</u></b>
+<br>
 Websites that allows developers to store and manage their code using Git.
 <br>
 
