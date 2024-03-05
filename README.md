@@ -51,6 +51,9 @@ Websites that allows developers to store and manage their code using Git.
 <b>Status-</b>displays the state of the clone
   <br>
 <b>git status</b>
+  <br>
+<b>cd:</b>  &nbsp;&nbsp; this command is use for change the directory
+
 
 
 <br>
