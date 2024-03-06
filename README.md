@@ -51,10 +51,16 @@ Websites that allows developers to store and manage their code using Git.
 <b>Status-</b>displays the state of the clone
   <br>
 <b>git status</b>
+   <br>
+  <b>Untracked</b>: New files that git doesn't track.
+  <br>
+  <b>Modified:</b> Chaged something in the file
+  <br>
+  <b>Staged:</b>File is ready to be commited
+  <br>
+  <b>Unmodified:</b> unchanged.
   <br>
 <b>cd:</b>  &nbsp;&nbsp; this command is use for change the directory
-
-
 
 <br>
 <h3>Configuring Git:</h3>
