@@ -72,6 +72,15 @@ git add <--file name-->
 <b>It is the record of the  change </b>
 <br>
 git commit-m "some message"
+<br>
+<br>
+<b>Push Command</b>
+<br>
+<b>Push:</b> upload local repo content to remote repo
+<br>
+git push origin main
+
+
 
 <br>
 <h3>Configuring Git:</h3>
