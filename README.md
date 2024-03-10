@@ -1,8 +1,10 @@
 <h2># Version-control-system-Tutorial</h2>
 <h3>This repo has the informatins about the basic commands of how to use version control system git and github.</h3>
-<b><u>Git</u></b>
 <br>
-version control system is a tools that helps to track changes in code .
+<b>version control system</b> is a tools that helps to track changes in code .
+<br>
+<br>
+<b><u>Git</u></b>
 <br>
 Git is a Version Control System.<b>It is:</b>
 <br>
@@ -11,7 +13,6 @@ Popular
 Free and Open Source
 <br>
 Fast & scalable
-<br>
 <br>
 <br>
 <b><u>Setting up Git</u></b>
@@ -26,12 +27,10 @@ iii) if we are a mac user then we have to download Terminal in our system which 
 After setting the git for verification we have to write a simple command which is <b>git --version</b>
 <br>
 <br>
-<br>
 <b><u>Github:</u></b>
 <br>
 Websites that allows developers to store and manage their code using Git.
 <br>
-
 <h3>Some basic Commands of git</h3>
 <br>
 <b>git --version:</b> &nbsp;   this will show the version of intalled git in the system.
@@ -42,13 +41,15 @@ Websites that allows developers to store and manage their code using Git.
 <br>
 <b>pwd:</b> &nbsp;  this command will help to get working directory.
 <br>
-<b style="color:yellow">Clone & Status</b> 
+<br>
+<b>Clone & Status</b> 
 <br>
 <b>Clone</b>-Cloning a repository on our local machine
 <br>
 <b>git clone <--some link--></b>
 <br>
 <b>Status-</b>displays the state of the clone
+  <br>
   <br>
 <b>git status</b>
    <br>
@@ -62,14 +63,14 @@ Websites that allows developers to store and manage their code using Git.
   <br>
 <b>cd:</b>  &nbsp;&nbsp; this command is use for change the directory.
 <br>
+<br>
 <b>Add & Commit</b>
 <br>
 <b>Add: adds new or changed files in our directory to the Git staging area.</b>
 <br>
 git add <--file name-->
 <br>
-
-<b>It is the record of the  change </b>
+<b>Commit-</b>It is the record of the  change.
 <br>
 git commit-m "some message"
 <br>
@@ -79,6 +80,7 @@ git commit-m "some message"
 <b>Push:</b> upload local repo content to remote repo
 <br>
 git push origin main
+<br>
 
 
 
