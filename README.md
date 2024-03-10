@@ -60,7 +60,18 @@ Websites that allows developers to store and manage their code using Git.
   <br>
   <b>Unmodified:</b> unchanged.
   <br>
-<b>cd:</b>  &nbsp;&nbsp; this command is use for change the directory
+<b>cd:</b>  &nbsp;&nbsp; this command is use for change the directory.
+<br>
+<b>Add & Commit</b>
+<br>
+<b>Add: adds new or changed files in our directory to the Git staging area.</b>
+<br>
+git add <--file name-->
+<br>
+
+<b>It is the record of the  change </b>
+<br>
+git commit-m "some message"
 
 <br>
 <h3>Configuring Git:</h3>
